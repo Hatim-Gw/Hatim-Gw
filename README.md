@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, Hatim Elghawail
+#### learning Full-stack
+Hailing from Libya, I'm a Computer Science graduate with a thirst for knowledge in all things tech! I enjoy constantly expanding my tech skillset. Currently, I'm diving into the world of React development and on my path to becoming a well-rounded full-stack developer.
 
-<!--
-**Hatim-Gw/Hatim-Gw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS/ JS / Bootstrap / SASS
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning REACT 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hatim-Gw)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatim-Gw)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatim-Gw&show_icons=true)  
+
