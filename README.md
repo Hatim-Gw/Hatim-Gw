@@ -1,8 +1,10 @@
-### Hi there 👋, Hatim Elghawail
+### Hi there 👋,I'm Hatim Elghawail
 #### learning Full-stack
 Hailing from Libya, I'm a Computer Science graduate with a thirst for knowledge in all things tech! I enjoy constantly expanding my tech skillset. Currently, I'm diving into the world of React development and on my path to becoming a well-rounded full-stack developer.
 
-Skills: HTML / CSS/ JS / Bootstrap / SASS
+💪Skills: 
+💻 HTML / CSS/ JS
+📚Bootstrap / SASS
 
 - 🌱 I’m currently learning REACT 
 
